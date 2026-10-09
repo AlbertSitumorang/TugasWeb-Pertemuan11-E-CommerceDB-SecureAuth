@@ -13,4 +13,4 @@
 ![](gambar/Screenshot_4.png)
 
 ## Tinker 5
-![](gambar/ScreenShot_1png)
+![](gambar/ScreenShot_1.png)
